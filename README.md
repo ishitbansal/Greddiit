@@ -1,8 +1,6 @@
 # Greddiit
 
-<br>
-
-> Name: Ishit Bansal
+### Name: Ishit Bansal
 
 ----
 
